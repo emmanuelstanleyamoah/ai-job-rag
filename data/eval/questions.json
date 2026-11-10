@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How should I structure an AI engineering resume?",
+    "expected": ["resume.md"]
+  },
+  {
+    "question": "What makes a strong AI project bullet with metrics?",
+    "expected": ["resume.md"]
+  },
+  {
+    "question": "Rewrite a security detection copilot resume bullet that lists too many tools",
+    "expected": ["resume.md"]
+  },
+  {
+    "question": "What portfolio projects get AI engineering interviews?",
+    "expected": ["portfolio-projects.md"]
+  },
+  {
+    "question": "How do I talk about RAG chunking and evaluation in an interview?",
+    "expected": ["talking-about-rag.md"]
+  },
+  {
+    "question": "What does an AI engineer interview loop look like?",
+    "expected": ["interviews.md"]
+  },
+  {
+    "question": "What weekly job search routine should a bootcamp grad follow?",
+    "expected": ["job-search-strategy.md"]
+  },
+  {
+    "question": "How do I turn a bootcamp capstone into the first engineering job?",
+    "expected": ["bootcamp-to-job.md"]
+  },
+  {
+    "question": "What does an AI engineer actually do day to day?",
+    "expected": ["what-ai-engineers-do.md"]
+  }
+]
